@@ -1,4 +1,4 @@
-## iOS Engineer at CONNECTWAVE (2020.05 ~)
+## iOS Developer at CONNECTWAVE (2020.05 ~)
 - working on "파워앱", which manages, develops, and maintains customers' shopping mall iOS apps.
 - developed the "스탬프팡" and "스탬프팡적립" iOS apps. The first is an app that allows customers to accumulate and use points in stores, and the second is an app that allows store owners to use and accumulate points for customers.
 - developed "전주맛배달", "스탬프팡POS" iOS app. The first one is a web app that allows you to place orders, and the second one is a native app that allows store owners to process orders.
