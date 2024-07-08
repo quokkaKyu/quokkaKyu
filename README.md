@@ -7,7 +7,7 @@
 
 ### About Me
 - like Swift Community and Open-ource
-    - 🎖 Contributor of [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui/pulls?q=is%3Apr+author%3AquokkaKyu+is%3Aclosed)
+    - 🎖 Contributor of [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)
 ### Education
 - Induk University(2017~2021)
     - Computer Software
