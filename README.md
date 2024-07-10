@@ -6,7 +6,7 @@
 - used RxSwift, RxCocoa, MVVM, etc.
 
 ### About Me
-- like Swift Community and Open-ource
+- like Swift Community and Open-Source
     - 🎖 Contributor of [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui)
 ### Education
 - Induk University(2017~2021)
